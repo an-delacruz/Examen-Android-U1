@@ -64,3 +64,12 @@ ul li {
   padding-bottom: 1rem;
   width: 8rem;
 }
+footer {
+  position: fixed;
+  bottom: 0.5rem;
+  width: 98%;
+  text-align: left;
+  padding: 20px 10px;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
