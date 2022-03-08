@@ -1,0 +1,9 @@
+body {
+  color: black;
+  background-color: lightgray;
+  text-align: center;
+  padding-top: 5em;
+}
+h1 {
+  font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+}
