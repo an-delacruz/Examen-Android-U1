@@ -51,3 +51,16 @@ h4 {
 .header-right {
   float: right;
 }
+ul {
+  background: transparent;
+  padding: 20px;
+  text-align: left;
+  font-size: large;
+}
+
+ul li {
+  color: darkblue;
+  margin: 5px;
+  padding-bottom: 1rem;
+  width: 8rem;
+}
